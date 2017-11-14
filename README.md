@@ -1,0 +1,1 @@
+# Gatsby plugin compression
