@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-compression",
-  "version": "0.0.1",
-  "description": "Gatsby plugin for compressing assets.",
+  "version": "0.1.0",
+  "description": "Gatsby plugin for compressing assets. (gzip)",
   "main": "gatsby-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "plugin",
     "compression"
   ],
-  "author": "Harrison Bowden",
+  "author": "btk",
   "license": "ISC",
   "dependencies": {
     "compression-webpack-plugin": "^1.0.1"
