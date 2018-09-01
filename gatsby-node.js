@@ -1,6 +1,6 @@
 const CompressionPlugin = require("compression-webpack-plugin");
 
-exports.modifyWebpackConfig = ({ config, stage }, options) => {
+exports.onCreateWebpackConfig = ({ config, stage }, options) => {
   switch (stage) {
     case `build-html`:
     case `build-javascript`:
