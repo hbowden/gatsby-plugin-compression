@@ -18,7 +18,7 @@
       "email": "info@suther.de",
       "url": "https://suther.de"
     }
-  ]
+  ],
   "license": "ISC",
   "dependencies": {
     "compression-webpack-plugin": "^7.0.0"
