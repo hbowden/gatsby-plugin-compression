@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-compression",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Gatsby plugin for compressing assets.",
   "main": "gatsby-node.js",
   "scripts": {
@@ -12,8 +12,15 @@
     "compression"
   ],
   "author": "Harrison Bowden",
+  "contributors": [
+    {
+      "name": "Samuel Suther",
+      "email": "info@suther.de",
+      "url": "https://suther.de"
+    }
+  ]
   "license": "ISC",
   "dependencies": {
-    "compression-webpack-plugin": "^1.0.1"
+    "compression-webpack-plugin": "^7.0.0"
   }
 }
